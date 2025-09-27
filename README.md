@@ -2,7 +2,7 @@
 
 一个基于 React + TypeScript + WebRTC 的多模态数字人交互前端应用，支持语音、手势、人脸表情识别以及实时对话功能。
 
-![[./docs/frontend.png]]
+![frontend](docs/frontend.png)
 
 ## 功能特性
 
